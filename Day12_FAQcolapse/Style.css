@@ -1,0 +1,18 @@
+@import url("https://use.typekit.net/ast8csu.css");
+
+*   {
+
+    box-sizing: border-box;
+}
+
+body {
+
+    font-family: 'avalanche', sans-serif;
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+}
