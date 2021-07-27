@@ -1,0 +1,19 @@
+@import url("https://use.typekit.net/ast8csu.css");
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+*   {
+
+    box-sizing: border-box;
+}
+
+body {
+
+    font-family: 'avalanche', sans-serif;
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+}
